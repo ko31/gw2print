@@ -1,6 +1,6 @@
 # gw2print
 
-Github Wiki ページをキレイに印刷できるようにする Chrome 拡張です。
+GitHub Wiki ページをキレイに印刷できるようにする Chrome 拡張です。
 
 ## Chrome 拡張の初期設定
 
@@ -11,7 +11,7 @@ Github Wiki ページをキレイに印刷できるようにする Chrome 拡張
 
 ## 使い方
 
-Github Wiki ページを開きます。
+GitHub Wiki ページを開きます。
 
 gw2print のアイコンをクリックしてください。
 
