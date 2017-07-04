@@ -15,7 +15,7 @@ Github Wiki ページを開きます。
 
 gw2print のアイコンをクリックしてください。
 
-![icon_128.png](https://raw.githubusercontent.com/ko31/gw2print/master/extension/icon_128.png)
+![icon.png](https://raw.githubusercontent.com/ko31/gw2print/master/icon.png)
 
 ## 参考
 
