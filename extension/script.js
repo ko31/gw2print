@@ -6,12 +6,12 @@ chrome.extension.onMessage.addListener(function(request, sender, sendResponse) {
 
 function format() {
     [
-      "header",
+      "Header",
       "pagehead",
       "gh-header-actions",
       "wiki-rightbar",
-      "site-footer",
       "wiki-footer",
+      "footer",
       "gh-header-meta"
     ].forEach(function (className) {
       document.getElementsByClassName(className)[0].style.display = 'none';
