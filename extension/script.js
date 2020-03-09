@@ -9,12 +9,16 @@ function format() {
       "Header",
       "pagehead",
       "gh-header-actions",
-      "wiki-rightbar",
       "wiki-footer",
       "footer",
       "gh-header-meta"
     ].forEach(function (className) {
       document.getElementsByClassName(className)[0].style.display = 'none';
+    });
+    [
+      "wiki-rightbar"
+    ].forEach(function (idName) {
+      document.getElementById(idName).style.display = 'none';
     });
     document.getElementsByClassName("has-rightbar")[0].classList.remove("has-rightbar")
     var codeTags = Array.from(document.getElementsByClassName("markdown-body")[0].getElementsByTagName("code"));
